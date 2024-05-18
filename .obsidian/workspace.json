@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
+                "file": "I. NLP Bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83f437798fa141f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -193,10 +206,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b51c1a5f049c9a79",
+  "active": "83f437798fa141f1",
   "lastOpenFiles": [
+    "TEMPLATE/2. Bug report.md",
     "TEMPLATE/1. Add properties.md",
-    "NLP bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
+    "README.md.md",
+    "I. NLP Bugs (Vietnamese)",
+    "I. NLP Bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
     "TEMPLATE",
     "I. CODE/1. C++/1.2. OOP/6.1. LAB 5/2_LAB5TH2.cpp",
     "I. CODE/1. C++/1.2. OOP/6.1. LAB 5/3_LAB5TH3.cpp",
@@ -216,7 +232,6 @@
     "PDF/4. Print inorder.pdf",
     "I. CODE/1. C++/1.1. DSA/7. Tree/3. Binary Tree/CODE FOLDER/4_1_Print_Inorder_Binary_Tree.exe",
     "I. CODE/1. C++/1.1. DSA/7. Tree/3. Binary Tree/CODE FOLDER/4_1_Print_Inorder_Binary_Tree.cpp",
-    "I. CODE/1. C++/1.1. DSA/7. Tree/3. Binary Tree/CODE FOLDER/5_1_Print_Postorder_Binary_Tree.cpp",
     "I. CODE/1. C++/1.1. DSA/7. Tree/3. Binary Tree/10. Inorder Traversal.md",
     "I. CODE/1. C++/1.1. DSA/7. Tree/4. Binary Search Tree/9. Check valid BST.md",
     "I. CODE/1. C++/1.1. DSA/7. Tree/3. Binary Tree/9. LevelOrder Traversal.md",
@@ -229,7 +244,6 @@
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/3. Tạo lớp con mới.md",
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/2. Dùng vùng chọn kiểu.md",
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/1. Đa hình.md",
-    "I. CODE/1. C++/1.1. DSA/3. Sort/4. Counting Sort.md",
     "Books/Pasted Image 20240514205427_206.png",
     "Books/Pasted image 20240514143447.png",
     "Books/Pasted image 20240506142404.png",
