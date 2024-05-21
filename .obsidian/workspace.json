@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           },
@@ -209,10 +209,12 @@
   "active": "83f437798fa141f1",
   "lastOpenFiles": [
     "TEMPLATE/2. Bug report.md",
+    "I. NLP Bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
+    "I. NLP Bugs/2. GPU out of memory error message on Google Colab.md",
     "TEMPLATE/1. Add properties.md",
+    "README.md",
     "README.md.md",
     "I. NLP Bugs (Vietnamese)",
-    "I. NLP Bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
     "TEMPLATE",
     "I. CODE/1. C++/1.2. OOP/6.1. LAB 5/2_LAB5TH2.cpp",
     "I. CODE/1. C++/1.2. OOP/6.1. LAB 5/3_LAB5TH3.cpp",
@@ -242,8 +244,6 @@
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/5. Bài tập trên lớp.md",
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/4. Phương thức thuần ảo và lớp cơ sở trừu tượng.md",
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/3. Tạo lớp con mới.md",
-    "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/2. Dùng vùng chọn kiểu.md",
-    "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/1. Đa hình.md",
     "Books/Pasted Image 20240514205427_206.png",
     "Books/Pasted image 20240514143447.png",
     "Books/Pasted image 20240506142404.png",
