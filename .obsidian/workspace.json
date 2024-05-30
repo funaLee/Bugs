@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "I. NLP Bugs/3. RuntimeError - You can't move a model that has some modules offloaded to cpu or disk.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "I. NLP Bugs/3. RuntimeError - You can't move a model that has some modules offloaded to cpu or disk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "I. NLP Bugs/3. RuntimeError - You can't move a model that has some modules offloaded to cpu or disk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "I. NLP Bugs/3. RuntimeError - You can't move a model that has some modules offloaded to cpu or disk.md"
               }
             }
           },
@@ -208,11 +208,12 @@
   },
   "active": "83f437798fa141f1",
   "lastOpenFiles": [
-    "TEMPLATE/2. Bug report.md",
-    "I. NLP Bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
     "I. NLP Bugs/2. GPU out of memory error message on Google Colab.md",
-    "TEMPLATE/1. Add properties.md",
+    "I. NLP Bugs/3. RuntimeError - You can't move a model that has some modules offloaded to cpu or disk.md",
+    "I. NLP Bugs/1. Pandas ParserError EOF character when reading multiple csv files to HDF5.md",
     "README.md",
+    "TEMPLATE/2. Bug report.md",
+    "TEMPLATE/1. Add properties.md",
     "README.md.md",
     "I. NLP Bugs (Vietnamese)",
     "TEMPLATE",
@@ -243,7 +244,6 @@
     "I. CODE/1. C++/1.2. OOP/7. Ôn thi/1. Hướng dẫn thi.md",
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/5. Bài tập trên lớp.md",
     "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/4. Phương thức thuần ảo và lớp cơ sở trừu tượng.md",
-    "I. CODE/1. C++/1.2. OOP/6. Đa hình, trừu tượng/1. Đa hình/3. Tạo lớp con mới.md",
     "Books/Pasted Image 20240514205427_206.png",
     "Books/Pasted image 20240514143447.png",
     "Books/Pasted image 20240506142404.png",
